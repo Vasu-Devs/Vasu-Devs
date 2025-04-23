@@ -68,10 +68,10 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Vasudev-Siddh/travel-Vlog">
-          <img src="https://img.shields.io/badge/travel-Vlog-Project-blue?style=for-the-badge" alt="OS-Project"/>
+        <a href="https://github.com/Vasudev-Siddh/RealTimeMemoryAllocationSimulator">
+          <img src="https://img.shields.io/badge/RealTimeMemoryAllocationSimulator-Project-blue?style=for-the-badge" alt="RT Memory Allocation"/>
           <br>
-          <sub>A frontend traevl vlog website</sub>
+          <sub>Real Time Memory Allocation Simulator</sub>
         </a>
       </td>
     </tr>
