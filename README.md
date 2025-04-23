@@ -50,14 +50,14 @@
         <a href="https://github.com/Vasudev-Siddh/Startup">
           <img src="https://img.shields.io/badge/Startup-Project-blue?style=for-the-badge" alt="TODO_PHP"/>
           <br>
-          <sub>A PHP-based TODO application</sub>
+          <sub>A full stack Startup Collab Website</sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Vasudev-Siddh/CultureCompass">
           <img src="https://img.shields.io/badge/CultureCompass-Project-blue?style=for-the-badge" alt="OS-Project"/>
           <br>
-          <sub>Operating Systems course project</sub>
+          <sub>A chatbot to learn CULTURE</sub>
         </a>
       </td>
     </tr>
