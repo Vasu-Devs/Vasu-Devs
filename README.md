@@ -22,14 +22,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -43,22 +42,43 @@
 
 ## 🏆 Completed Projects
 
+<!-- Simply list your projects instead of using the GitHub stats cards that aren't working -->
 <div align="center">
-  <!-- Replace with your actual projects -->
-  <a href="https://github.com/Vasudev-Siddh/project-1">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Vasudev-Siddh&repo=project-1&theme=react" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/Vasudev-Siddh/project-2">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Vasudev-Siddh&repo=project-2&theme=react" alt="Project 2"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Vasudev-Siddh/TODO_PHP">
+          <img src="https://img.shields.io/badge/TODO_PHP-Project-blue?style=for-the-badge" alt="TODO_PHP"/>
+          <br>
+          <sub>A PHP-based TODO application</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Vasudev-Siddh/OS-Project">
+          <img src="https://img.shields.io/badge/OS_Project-Project-blue?style=for-the-badge" alt="OS-Project"/>
+          <br>
+          <sub>Operating Systems course project</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Fixed stats widget URL -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vasudev-Siddh&layout=compact&theme=react" alt="Top Languages" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vasudev-Siddh&show_icons=true&theme=react" alt="GitHub Stats" />
+  <!-- Using a more reliable stats provider -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudev-Siddh&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudev-Siddh&layout=compact&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudev-Siddh&layout=compact&theme=react" alt="Top Languages" />
+  </picture>
 </div>
 
 ## 🌟 Fun Facts
@@ -77,7 +97,7 @@
   <a href="https://www.linkedin.com/in/vasudev-siddh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:siddhvasudev1402@gmail.com">
+  <a href="mailto:sidhvasudev1402@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
