@@ -60,6 +60,20 @@
           <sub>A chatbot to learn CULTURE</sub>
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/Vasudev-Siddh/MaintMaster">
+          <img src="https://img.shields.io/badge/MaintMaster-Project-blue?style=for-the-badge" alt="OS-Project"/>
+          <br>
+          <sub>A home maintainance bot</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Vasudev-Siddh/travel-Vlog">
+          <img src="https://img.shields.io/badge/travel-Vlog-Project-blue?style=for-the-badge" alt="OS-Project"/>
+          <br>
+          <sub>A frontend traevl vlog website</sub>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
