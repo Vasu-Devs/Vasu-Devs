@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -42,18 +44,21 @@
 ## 🏆 Completed Projects
 
 <div align="center">
-  <a href="https://github.com/Vasudev-Siddh/TODO_PHP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasudev-Siddh&repo=TODO_PHP&theme=react" alt="TODO_PHP"/>
+  <!-- Replace with your actual projects -->
+  <a href="https://github.com/Vasudev-Siddh/project-1">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Vasudev-Siddh&repo=project-1&theme=react" alt="Project 1"/>
   </a>
-  <a href="https://github.com/Vasudev-Siddh/OS-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasudev-Siddh&repo=OS-Project&theme=react" alt="OS-Project"/>
+  <a href="https://github.com/Vasudev-Siddh/project-2">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Vasudev-Siddh&repo=project-2&theme=react" alt="Project 2"/>
   </a>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudev-Siddh&layout=compact&theme=react" alt="Top Languages" />
+  <!-- Fixed stats widget URL -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vasudev-Siddh&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vasudev-Siddh&show_icons=true&theme=react" alt="GitHub Stats" />
 </div>
 
 ## 🌟 Fun Facts
@@ -72,7 +77,7 @@
   <a href="https://www.linkedin.com/in/vasudev-siddh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:vasudev.siddh@example.com">
+  <a href="mailto:siddhvasudev1402@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
