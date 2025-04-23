@@ -47,15 +47,15 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/Vasudev-Siddh/TODO_PHP">
-          <img src="https://img.shields.io/badge/TODO_PHP-Project-blue?style=for-the-badge" alt="TODO_PHP"/>
+        <a href="https://github.com/Vasudev-Siddh/Startup">
+          <img src="https://img.shields.io/badge/Startup-Project-blue?style=for-the-badge" alt="TODO_PHP"/>
           <br>
           <sub>A PHP-based TODO application</sub>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Vasudev-Siddh/OS-Project">
-          <img src="https://img.shields.io/badge/OS_Project-Project-blue?style=for-the-badge" alt="OS-Project"/>
+        <a href="https://github.com/Vasudev-Siddh/CultureCompass">
+          <img src="https://img.shields.io/badge/CultureCompass-Project-blue?style=for-the-badge" alt="OS-Project"/>
           <br>
           <sub>Operating Systems course project</sub>
         </a>
@@ -64,11 +64,11 @@
   </table>
 </div>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   <!-- Using a more reliable stats provider -->
-  <picture>
+  <!--<picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudev-Siddh&layout=compact&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -80,7 +80,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudev-Siddh&layout=compact&theme=react" alt="Top Languages" />
   </picture>
 </div>
-
+-->
 ## 🌟 Fun Facts
 
 - 💭 I can overthink the simplest decisions to an Olympic level
