@@ -105,7 +105,7 @@ class AIFullStackJourney:
         <sub>Multi-threaded AI chatbot with Git-style branching | FastAPI + React</sub>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/CrabbyCodes/ElevateX">
+        <a href="https://github.com/CrabbyCodes/Startup">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrabbyCodes&repo=ElevateX&theme=tokyonight&border_radius=10" alt="ElevateX"/>
         </a>
         <br>
@@ -218,7 +218,7 @@ class AIFullStackJourney:
   <a href="mailto:siddhvasudev1402@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/CrabbyCodes">
+  <a href="https://leetcode.com/CodeCrab">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </div>
