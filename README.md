@@ -106,7 +106,7 @@ class AIFullStackJourney:
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/CrabbyCodes/Startup">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrabbyCodes&repo=ElevateX&theme=tokyonight&border_radius=10" alt="ElevateX"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrabbyCodes&repo=Startup&theme=tokyonight&border_radius=10" alt="ElevateX"/>
         </a>
         <br>
         <strong>🚀 ElevateX</strong> <code>Live</code>
