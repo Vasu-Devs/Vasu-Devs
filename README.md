@@ -5,7 +5,7 @@
 
   <div align="center">
     <img src="https://img.shields.io/badge/Year-Third-orange" alt="Third Year"/>
-    <img src="https.shields.io/badge/University-LPU-blue" alt="LPU"/>
+    <img src="https://img.shields.io/badge/University-LPU-blue" alt="LPU"/>
     <img src="https://img.shields.io/badge/Focus-AI+Full+Stack-purple" alt="AI Full Stack"/>
     <img src="https://img.shields.io/badge/LeetCode-1558-yellow" alt="LeetCode Rating"/>
     <img src="https://komarev.com/ghpvc/?username=CrabbyCodes&color=blueviolet" alt="Profile Views"/>
@@ -18,8 +18,7 @@
 
 **Mission**: Transform from student to placement-ready AI Full Stack Developer
 
-```
-python
+```python
 class AIFullStackJourney:
     def __init__(self):
         self.current_phase = "Month 1 - Foundations & Mini Projects"
