@@ -18,7 +18,8 @@
 
 **Mission**: Transform from student to placement-ready AI Full Stack Developer
 
-```python
+```
+python
 class AIFullStackJourney:
     def __init__(self):
         self.current_phase = "Month 1 - Foundations & Mini Projects"
@@ -44,7 +45,7 @@ class AIFullStackJourney:
 
 ## 💻 About Me
 
-- 🎓 **B.Tech CSE Third Year** at Lovely Professional University (2024-2027)
+- 🎓 **B.Tech CSE Third Year** at Lovely Professional University (2023-2027)
 - 🤖 **AI + Full Stack Developer** in intensive learning mode
 - 🦀 A bit crabby about messy code, but passionate about clean solutions
 - 🧠 **Currently Learning**: FastAPI, AI APIs, Prompt Engineering, RAG systems
