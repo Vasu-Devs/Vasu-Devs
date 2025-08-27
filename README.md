@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/University-LPU-blue" alt="LPU"/>
     <img src="https://img.shields.io/badge/Focus-AI+Full+Stack-purple" alt="AI Full Stack"/>
     <img src="https://img.shields.io/badge/LeetCode-1558-yellow" alt="LeetCode Rating"/>
-    <img src="https://komarev.com/ghpvc/?username=CrabbyCodes&color=blueviolet" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Vasu-Sidz&color=blueviolet" alt="Profile Views"/>
   </div>
 </div>
 
@@ -96,8 +96,8 @@ class AIFullStackJourney:
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/CrabbyCodes/BranchGPT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrabbyCodes&repo=BranchGPT&theme=tokyonight&border_radius=10" alt="BranchGPT"/>
+        <a href="https://github.com/Vasu-Sidz/BranchGPT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasu-Sids&repo=BranchGPT&theme=tokyonight&border_radius=10" alt="BranchGPT"/>
         </a>
         <br>
         <strong>🤖 BranchGPT</strong> <code>In Progress</code>
@@ -105,8 +105,8 @@ class AIFullStackJourney:
         <sub>Multi-threaded AI chatbot with Git-style branching | FastAPI + React</sub>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/CrabbyCodes/Startup">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrabbyCodes&repo=Startup&theme=tokyonight&border_radius=10" alt="ElevateX"/>
+        <a href="https://github.com/Vasu-Sidz/Startup">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasu-Sidz&repo=Startup&theme=tokyonight&border_radius=10" alt="ElevateX"/>
         </a>
         <br>
         <strong>🚀 ElevateX</strong> <code>Live</code>
@@ -116,8 +116,8 @@ class AIFullStackJourney:
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/CrabbyCodes/CultureCompass">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrabbyCodes&repo=CultureCompass&theme=tokyonight&border_radius=10" alt="CultureCompass"/>
+        <a href="https://github.com/Vasu-Sidz/CultureCompass">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasu-Sidz&repo=CultureCompass&theme=tokyonight&border_radius=10" alt="CultureCompass"/>
         </a>
         <br>
         <strong>🧭 CultureCompass</strong> <code>Complete</code>
@@ -142,12 +142,12 @@ class AIFullStackJourney:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CrabbyCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrabbyCodes&layout=compact&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasu-Sidz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu-Sidz&layout=compact&theme=tokyonight&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrabbyCodes&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu-Sidz&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
 </div>
 
 ---
@@ -183,7 +183,7 @@ class AIFullStackJourney:
 
 ---
 
-## 🌟 Why "CrabbyCodes"?
+## 🌟 Why "Vasu-Sidz"?
 
 > *"Sometimes I get a bit crabby when my AI models don't converge or when my prompts don't work as expected... but I never stop debugging until they do! 🦀"*
 
@@ -209,7 +209,7 @@ class AIFullStackJourney:
 
 <br>
 
-  <a href="https://github.com/CrabbyCodes">
+  <a href="https://github.com/Vasu-Sidz">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/vasudev-siddh/">
