@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Vasudev (aka CrabbyCodes)
+# 👋 Hey there, I'm VasuDev
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=CS+Third+Year+%40+LPU;AI+%2B+Full+Stack+Developer+in+Making;Currently+Learning+FastAPI+%26+AI+APIs;Building+Real+AI+Applications!" alt="Typing SVG" />
