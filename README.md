@@ -96,8 +96,8 @@ class AIFullStackJourney:
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/Vasu-Sidz/BranchGPT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasu-Sids&repo=BranchGPT&theme=tokyonight&border_radius=10" alt="BranchGPT"/>
+        <a href="https://github.com/Vasu-Devs/BranchGPT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasu-Devs&repo=BranchGPT&theme=tokyonight&border_radius=10" alt="BranchGPT"/>
         </a>
         <br>
         <strong>🤖 BranchGPT</strong> <code>In Progress</code>
@@ -105,8 +105,8 @@ class AIFullStackJourney:
         <sub>Multi-threaded AI chatbot with Git-style branching | FastAPI + React</sub>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/Vasu-Sidz/Startup">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasu-Sidz&repo=Startup&theme=tokyonight&border_radius=10" alt="ElevateX"/>
+        <a href="https://github.com/Vasu-Devs/Startup">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasu-Devs&repo=Startup&theme=tokyonight&border_radius=10" alt="ElevateX"/>
         </a>
         <br>
         <strong>🚀 ElevateX</strong> <code>Live</code>
@@ -116,8 +116,8 @@ class AIFullStackJourney:
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/Vasu-Sidz/CultureCompass">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasu-Sidz&repo=CultureCompass&theme=tokyonight&border_radius=10" alt="CultureCompass"/>
+        <a href="https://github.com/Vasu-Devs/CultureCompass">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasu-Devs&repo=CultureCompass&theme=tokyonight&border_radius=10" alt="CultureCompass"/>
         </a>
         <br>
         <strong>🧭 CultureCompass</strong> <code>Complete</code>
@@ -142,12 +142,12 @@ class AIFullStackJourney:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasu-Sidz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu-Sidz&layout=compact&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasu-Devs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu-Devs&layout=compact&theme=tokyonight&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu-Sidz&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu-Devs&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
 </div>
 
 ---
