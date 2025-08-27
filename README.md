@@ -17,8 +17,8 @@
 ## 🚀 Currently On: 3-Month AI Full Stack Journey
 
 **Mission**: Transform from student to placement-ready AI Full Stack Developer
-
-```python
+```
+python
 class AIFullStackJourney:
     def __init__(self):
         self.current_phase = "Month 1 - Foundations & Mini Projects"
