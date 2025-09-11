@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm VasuDev
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=CS+Third+Year+%40+LPU;AI+%2B+Full+Stack+Developer;Building+Real+AI+Applications;FastAPI+%7C+React+%7C+AI+APIs+Expert;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=CS+Third+Year+%40+LPU;AI+%2B+Full+Stack+Developer;Building+Real+AI+Applications;FastAPI+%7C+React+%7C+AI+APIs;Week+3+Survivor!" alt="Typing SVG" />
 
   <div align="center">
     <img src="https://img.shields.io/badge/Year-Third-orange" alt="Third Year"/>
@@ -14,52 +14,38 @@
 
 ---
 
-## 🚀 Current Mission: Building Production-Ready AI Applications
+## 🚀 Week 3 Update: Still Alive, Mostly Caffeinated
 
-**Status**: Transforming from student to industry-ready AI Full Stack Developer
-```python
-class AIFullStackDeveloper:
-    def __init__(self):
-        self.current_focus = "Shipping Real AI Products"
-        self.recent_achievements = {
-            "AI Integration": "✅ Multiple AI APIs (OpenAI, Claude, Gemini)",
-            "Backend Mastery": "✅ FastAPI + Async Programming",
-            "Frontend Skills": "✅ React + Modern JavaScript",
-            "Deployment": "✅ Docker + Cloud Platforms"
-        }
-        
-    def get_active_projects(self):
-        return [
-            "🤖 BranchGPT - Multi-threaded AI chatbot with Git-style branching",
-            "📧 AI Email Assistant - Transform rough notes to professional emails",
-            "📄 PDF Summarizer - Upload & get AI-powered summaries",
-            "🚀 ElevateX - Startup collaboration platform (20+ active users)"
-        ]
-        
-    def get_next_targets(self):
-        return [
-            "RAG systems with vector databases",
-            "LangChain for complex AI workflows", 
-            "Production-scale AI applications",
-            "Advanced prompt engineering techniques"
-        ]
-```
+**Current Status**: Deep in the PDF processing trenches, send help (and more coffee)
+
+**Weekly Progress Check:**
+- **Week 1**: ✅ Made APIs talk to each other without throwing tantrums
+- **Week 2**: ✅ Mastered the ancient art of AI prompt whispering  
+- **Week 3**: 🔄 Wrestling with file uploads like it's 2003 (but winning... barely)
+
+**What I'm Actually Building:**
+- 🤖 **AI Email Assistant** - Turns my 3am brain dumps into professional emails
+- 📄 **PDF Summarizer** - Upload docs, get summaries (when it feels like working)
+- 🚀 **ElevateX** - Startup platform that somehow 20+ people actually use
+- 💭 **My Sanity** - Status: Questionable but intact
+
+**Next Week's Boss Fight:** Docker deployment 🐳 (may the containers be ever in my favor)
 
 ---
 
 ## 💻 About Me
 
-- 🎓 **B.Tech CSE Third Year** at Lovely Professional University (2023-2027)
-- 🤖 **AI Full Stack Developer** specializing in practical AI applications
-- 🦀 Perfectionist when it comes to code quality and user experience
-- 🧠 **Currently Mastering**: RAG Systems, Vector DBs, Advanced AI Workflows
-- 📊 **LeetCode Contest Rating**: 1558+ | **HackerRank**: 5⭐ Problem Solver
-- 🎯 **Mission**: Bridge the gap between AI research and real-world applications
-- 🔥 **Passion**: Building AI tools that actually solve problems, not just demos
+- 🎓 **B.Tech CSE Third Year** at LPU (still showing up to classes... sometimes)
+- 🤖 **Week 3 AI Bootcamp Survivor** - PDF uploads are my current nemesis
+- 🦀 Gets crabby when APIs return 500 errors at 2 AM
+- 🧠 **Currently Wrestling With**: File processing, Docker (why so many containers?!)
+- 📊 **LeetCode**: 1558+ rating (proof I can solve problems... eventually)
+- 🎯 **Mission**: Build stuff that actually works and doesn't crash on demo day
+- 🔥 **Next Boss Fight**: Docker deployment (send coffee and prayers)
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack
 
 ### 🤖 AI & Machine Learning
 <div align="center">
@@ -73,8 +59,8 @@ class AIFullStackDeveloper:
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </div>
 
 ### 🌐 Full Stack Development
@@ -88,9 +74,9 @@ class AIFullStackDeveloper:
 ### 🗄️ Databases & DevOps
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </div>
 
 ---
@@ -107,16 +93,16 @@ class AIFullStackDeveloper:
         <br>
         <strong>🤖 BranchGPT</strong> <code>In Progress</code>
         <br>
-        <sub>Revolutionary AI chat with Git-style conversation branching | FastAPI + React + AI APIs</sub>
+        <sub>AI chat with Git-style conversation branching | FastAPI + React</sub>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/Vasu-Devs/Startup">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasu-Devs&repo=Startup&theme=tokyonight&border_radius=10" alt="ElevateX"/>
         </a>
         <br>
-        <strong>🚀 ElevateX</strong> <code>Live Production</code>
+        <strong>🚀 ElevateX</strong> <code>Live</code>
         <br>
-        <sub>Full-stack startup collaboration platform | 20+ active users | Real-time features</sub>
+        <sub>Startup collaboration platform | 20+ active users</sub>
       </td>
     </tr>
     <tr>
@@ -127,16 +113,16 @@ class AIFullStackDeveloper:
         <br>
         <strong>🧭 CultureCompass</strong> <code>Complete</code>
         <br>
-        <sub>AI-powered cultural assistant | 100+ regional queries handled | Gemini API integration</sub>
+        <sub>AI cultural assistant | 100+ regional queries</sub>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/Vasu-Devs/AI-Email-Assistant">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vasu-Devs&repo=AI-Email-Assistant&theme=tokyonight&border_radius=10" alt="AI Email Assistant"/>
-        </a>
-        <br>
-        <strong>📧 AI Email Assistant</strong> <code>Recent</code>
-        <br>
-        <sub>Transform rough notes into professional emails | Advanced prompt engineering</sub>
+        <div style="border: 2px dashed #666; padding: 20px; border-radius: 10px; background: #0d1117;">
+          <strong>📄 PDF Summarizer</strong>
+          <br>
+          <sub><code>Week 3 Project</code></sub>
+          <br>
+          <sub><em>Upload PDF → AI summary (almost working!)</em></sub>
+        </div>
       </td>
     </tr>
   </table>
@@ -144,88 +130,52 @@ class AIFullStackDeveloper:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 The Commits Don't Lie
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vasu-Devs&theme=tokyo-night&bg_color=0d1117&color=9745f5&line=9745f5&point=ffffff&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vasu-Devs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasu-Devs&layout=compact&theme=tokyonight&border_radius=10&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu-Devs&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vasu-Devs&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8" alt="Trophy Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vasu-Devs&theme=tokyonight&border_radius=10"/>
 </div>
 
 ---
 
-## 🎯 Current Learning & Development Journey
+## 🏅 Stuff I've Actually Done
 
-### 🚀 Recently Completed
-- **✅ AI API Mastery** - OpenAI, Claude, Gemini integration
-- **✅ Advanced FastAPI** - Async operations, middleware, authentication  
-- **✅ Modern React** - Hooks, Context API, component optimization
-- **✅ Prompt Engineering** - Few-shot learning, structured prompting
-- **✅ Production Deployment** - Docker containerization, cloud deployment
-
-### 🔄 Currently Working On
-- **Vector Databases** - ChromaDB, Pinecone for RAG systems
-- **LangChain Framework** - Chains, agents, memory management
-- **Advanced AI Workflows** - Multi-step reasoning, tool integration
-- **System Design** - Scalable AI application architecture
-
-### 🔮 Next Quarter Goals
-- **Production RAG Systems** - Document Q&A, knowledge bases
-- **AI Agent Development** - Autonomous task completion
-- **Performance Optimization** - GPU acceleration, model optimization
-- **Open Source Contributions** - Contributing to AI tools & frameworks
+- 🎓 **Elite PEP DSA Training** - Selected from 368+ students
+- 📊 **LeetCode Contest Rating**: 1558 (Active participant)
+- ⭐ **HackerRank**: 5-Star Problem Solving
+- 📜 **Deep Learning Certified** - NPTEL
+- 🤖 **Real Users**: 100+ people have used my apps (somehow)
 
 ---
 
-## 🏅 Achievements & Recognition
+## 🌟 Why "Vasu-Sidz"?
 
-- 🎓 **Elite PEP DSA Training** - Selected from 368+ students (Top 5%)
-- 📊 **LeetCode Contest Rating**: 1558+ (Active competitive programmer)
-- ⭐ **HackerRank**: 5-Star Problem Solving Badge
-- 📜 **NPTEL Deep Learning** - Elite Grade Certification
-- 🏆 **College Projects** - Multiple first prizes in technical competitions
-- 🤖 **AI Projects Impact** - 100+ users across deployed applications
-
----
-
-## 🌟 What Makes Me Different
-
-> *"I don't just follow tutorials - I build solutions that people actually use and love!"*
-
-### My Development Philosophy:
-- 🎯 **User-First Approach** - Every feature serves a real need
-- 🔧 **Clean Code Advocate** - Readable, maintainable, scalable solutions
-- 🚀 **Ship Fast, Iterate Faster** - MVP mindset with continuous improvement
-- 🧠 **AI-Augmented Development** - Using AI to enhance, not replace, thinking
-- 📚 **Continuous Learning** - Staying ahead of the rapidly evolving AI landscape
+> *"Sometimes I get a bit crabby when my code doesn't work... but I never stop until it does! 🦀"*
 
 ### Fun Developer Facts:
-- 🤖 I debug AI prompts like others debug code - methodically and obsessively
-- ☕ My GitHub contributions graph correlates perfectly with my coffee intake
-- 🌙 Most breakthrough moments happen between 11 PM - 2 AM
-- 📖 I read AI research papers during breakfast (don't judge!)
-- 🎮 I think of AI model training like leveling up characters in RPGs
-- 🧩 Complex problems energize me more than easy wins
+- 🤖 I name my API endpoints like they're pets (GET /good-boy/users)
+- ☕ My commit frequency is directly proportional to my caffeine blood levels
+- 🌙 Best debugging happens at 2 AM when the universe aligns
+- 📖 Stack Overflow is basically my second home at this point
+- 🎮 I treat error messages like boss fight hints
+- 🧩 When code works on first try, I get suspicious and check it 5 more times
 
 ---
 
-## 🤝 Let's Build Something Amazing Together!
+## 🤝 Let's Connect!
 
 <div align="center">
 
-**I'm actively looking for:**
-- 🚀 **Collaboration opportunities** on innovative AI projects
-- 💼 **Internships & opportunities** in AI/ML and Full Stack roles
-- 🌟 **Open source contributions** to impactful projects  
-- 🧠 **Learning partnerships** with fellow AI enthusiasts
-- 💡 **Project ideas** that solve real-world problems
+**Looking for:**
+- 👥 People to build cool AI stuff with
+- 🚀 Open source projects to contribute to
+- 💡 Ideas for solving actual problems (not just demos)
+- 📚 Fellow learners who also survive on coffee
 
 <br>
 
@@ -241,7 +191,6 @@ class AIFullStackDeveloper:
   <a href="https://leetcode.com/CodeCrab">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
-
 </div>
 
 ---
@@ -251,14 +200,8 @@ class AIFullStackDeveloper:
 </div>
 
 <div align="center">
-  <h3>🚀 "Turning AI possibilities into practical realities"</h3>
-  <p><em>Building the future, one commit at a time • Currently powered by curiosity and caffeine</em></p>
+  <h3>🚀 "Building the future, one bug fix at a time"</h3>
+  <p><em>Currently turning caffeine into code and surviving Week 3!</em></p>
   
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Footer"/>
-</div>
-
----
-
-<div align="center">
-  <sub>⚡ <strong>Pro Tip:</strong> Check out my pinned repositories for the latest projects, and don't forget to ⭐ star anything you find useful!</sub>
 </div>
