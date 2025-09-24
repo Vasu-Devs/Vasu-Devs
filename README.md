@@ -30,46 +30,44 @@
 <td width="50%" align="center">
 
 ### 🔥 **What I'm Building**
-```python
-class AIEngineer:
-    def __init__(self):
-        self.current_projects = [
-            "RAG Systems",
-            "MCP Integration",
-            "AI Email Assistant",
-            "Vector Search Apps"
-        ]
-        
-    def tech_stack(self):
-        return {
-            "AI": ["OpenAI", "Claude", "HuggingFace"],
-            "Backend": ["FastAPI", "Python", "LangChain"],
-            "Frontend": ["React", "Next.js", "Tailwind"],
-            "Data": ["Vector DBs", "PostgreSQL"]
-        }
-```
+
+<br/>
+
+**🤖 RAG Systems** - Retrieval Augmented Generation  
+**🧠 MCP Integration** - Model Context Protocol  
+**📧 AI Email Assistant** - Smart automation  
+**🔍 Vector Search Apps** - Semantic search  
+
+<br/>
+
+**Tech Stack:**
+- **AI:** OpenAI, Claude, HuggingFace
+- **Backend:** FastAPI, Python, LangChain  
+- **Frontend:** React, Next.js, Tailwind
+- **Data:** Vector DBs, PostgreSQL
 
 </td>
 <td width="50%" align="center">
 
-### ⚡ **Achievement Unlocked**
-<br/>
-
-🏆 **LeetCode Rating:** `1558`  
-🎓 **Elite PEP DSA** - Top 368  
-⭐ **HackerRank:** 5-Star Solver  
-🤖 **Real Users:** 100+ Active  
+### ⚡ **About Me**
 
 <br/>
 
-```js
-const status = {
-  year: "3rd @ LPU",
-  focus: "AI Full Stack",
-  next: "Production Deployment",
-  coffee: "Required ☕"
-}
-```
+🎓 **3rd Year CSE** @ LPU  
+🌐 **Minor:** Web Dev + DevOps  
+🤖 **Focus:** Applied AI  
+
+<br/>
+
+**Achievements:**
+- 🏆 LeetCode Rating: **1558**
+- 🎯 Elite PEP DSA - Top 368  
+- ⭐ HackerRank: 5-Star Solver
+- 📜 Deep Learning Certified
+
+<br/>
+
+**Current Goal:** Production AI Deployment
 
 </td>
 </tr>
@@ -83,7 +81,7 @@ const status = {
 
 ## 🎨 **Tech Arsenal**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,javascript,nodejs,postgresql,docker,git,postman,tailwind,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,javascript,nodejs,postgresql,docker,git,postman,tailwind,figma&theme=dark" alt="Python, FastAPI, React, Next.js, JavaScript, Node.js, PostgreSQL, Docker, Git, Postman, Tailwind CSS, Figma" />
 
 ### 🤖 **AI & ML Stack**
 <div style="margin: 20px 0;">
@@ -133,11 +131,10 @@ const status = {
 </div>
 
 ### 🎯 **Looking For**
-```yaml
-collaboration: ["AI Projects", "Open Source", "Startups"]
-interests: ["RAG Systems", "MCP Protocol", "Production AI"]
-always_down_for: ["Technical Discussions", "Code Reviews", "Building Cool Stuff"]
-```
+
+**Collaboration:** AI Projects, Open Source, Startups  
+**Interests:** RAG Systems, MCP Protocol, Production AI  
+**Always Down For:** Technical Discussions, Code Reviews, Building Cool Stuff
 
 <br/>
 
