@@ -6,48 +6,36 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Building%20AI%20That%20Works&fontSize=30&fontColor=fff&animation=twinkling"/>
 
 <div style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=🤖+RAG+Systems+%2B+Vector+Databases;🧠+Learning+MCP+Protocol;⚡+FastAPI+%2B+React+%2B+AI+APIs" />
-</div>
-
-```ascii
-╭─────────────────────────────────────╮
-│  🎯 Mission: Production AI Apps     │
-│  📚 Learning: RAG + MCP Mastery     │ 
-│  🚀 Building: Real Solutions        │
-╰─────────────────────────────────────╯
-```
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+RAG+Systems;Learning+MCP+Protocol;FastAPI+%2B+React+%2B+AI;Production+Ready+Apps" />
 </div>
 
 ---
 
 <div align="center">
 
-## 💫 **Current Focus**
+## 🚀 **What I'm Building**
 
-<table>
+<br/>
+
+<table style="margin: 0 auto;">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="left" valign="top" style="padding: 25px; background: rgba(13, 17, 23, 0.8); border-radius: 15px; border: 1px solid #30363d;">
 
-### 🔥 **What I'm Building**
-
-<br/>
-
-**🤖 RAG Systems** - Retrieval Augmented Generation  
-**🧠 MCP Integration** - Model Context Protocol  
-**📧 AI Email Assistant** - Smart automation  
-**🔍 Vector Search Apps** - Semantic search  
+### 🤖 **Current Projects**
 
 <br/>
 
-**Tech Stack:**
-- **AI:** OpenAI, Claude, HuggingFace
-- **Backend:** FastAPI, Python, LangChain  
-- **Frontend:** React, Next.js, Tailwind
-- **Data:** Vector DBs, PostgreSQL
+**RAG Systems** - Retrieval Augmented Generation  
+**MCP Integration** - Model Context Protocol  
+**AI Email Assistant** - Smart automation  
+**Vector Search Apps** - Semantic search  
+
+<br/>
+
+**Stack:** FastAPI, React, LangChain, Vector DBs
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="left" valign="top" style="padding: 25px; background: rgba(13, 17, 23, 0.8); border-radius: 15px; border: 1px solid #30363d;">
 
 ### ⚡ **About Me**
 
@@ -59,15 +47,11 @@
 
 <br/>
 
-**Achievements:**
-- 🏆 LeetCode Rating: **1558**
-- 🎯 Elite PEP DSA - Top 368  
-- ⭐ HackerRank: 5-Star Solver
-- 📜 Deep Learning Certified
-
-<br/>
-
-**Current Goal:** Production AI Deployment
+**Achievements:**  
+• LeetCode Rating: **1558**  
+• Elite PEP DSA - Top 368  
+• HackerRank: 5-Star Solver  
+• Deep Learning Certified  
 
 </td>
 </tr>
@@ -79,18 +63,21 @@
 
 <div align="center">
 
-## 🎨 **Tech Arsenal**
+## 🛠️ **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,javascript,nodejs,postgresql,docker,git,postman,tailwind,figma&theme=dark" alt="Python, FastAPI, React, Next.js, JavaScript, Node.js, PostgreSQL, Docker, Git, Postman, Tailwind CSS, Figma" />
+<br/>
 
-### 🤖 **AI & ML Stack**
-<div style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DBs-FF6B9D?style=for-the-badge&logoColor=white" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,javascript,nodejs,postgresql,docker,git,tailwind&theme=dark" alt="Python, FastAPI, React, Next.js, JavaScript, Node.js, PostgreSQL, Docker, Git, Tailwind CSS" />
+
+<br/><br/>
+
+**AI & ML:**  
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+
+
 
 </div>
 
