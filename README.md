@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌟 Vasudev
-### *AI Engineer • RAG Systems • MCP Protocol*
+### *Applied AI Engineer • RAG Systems*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Building%20AI%20That%20Works&fontSize=30&fontColor=fff&animation=twinkling"/>
 
