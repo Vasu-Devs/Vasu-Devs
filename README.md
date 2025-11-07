@@ -1,13 +1,13 @@
 <div align="center">
 
 # 🌟 Vasudev
-### *Applied AI Engineer • RAG Systems*
+### *Full Stack Applied AI Engineer*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Building%20AI%20That%20Works&fontSize=30&fontColor=fff&animation=twinkling"/>
 
-<div style="margin: 30px 0;">
+<!-- <div style="margin: 30px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+RAG+Systems;Learning+MCP+Protocol;FastAPI+%2B+React+%2B+AI;Production+Ready+Apps" />
-</div>
+</div> -->
 
 ---
 
