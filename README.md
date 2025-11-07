@@ -13,56 +13,6 @@
 
 <div align="center">
 
-## 🚀 **What I'm Building**
-
-<br/>
-
-<table style="margin: 0 auto;">
-<tr>
-<td width="50%" align="left" valign="top" style="padding: 25px; background: rgba(13, 17, 23, 0.8); border-radius: 15px; border: 1px solid #30363d;">
-
-### 🤖 **Current Projects**
-
-<br/>
-
-**RAG Systems** - Retrieval Augmented Generation  
-**MCP Integration** - Model Context Protocol  
-**AI Email Assistant** - Smart automation  
-**Vector Search Apps** - Semantic search  
-
-<br/>
-
-**Stack:** FastAPI, React, LangChain, Vector DBs
-
-</td>
-<td width="50%" align="left" valign="top" style="padding: 25px; background: rgba(13, 17, 23, 0.8); border-radius: 15px; border: 1px solid #30363d;">
-
-### ⚡ **About Me**
-
-<br/>
-
-🎓 **3rd Year CSE** @ LPU  
-🌐 **Minor:** Web Dev + DevOps  
-🤖 **Focus:** Applied AI  
-
-<br/>
-
-**Achievements:**  
-• LeetCode Rating: **1558**  
-• Elite PEP DSA - Top 368  
-• HackerRank: 5-Star Solver  
-• Deep Learning Certified  
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 ## 🛠️ **Tech Stack**
 
 <br/>
