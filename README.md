@@ -52,6 +52,11 @@ Building scalable web apps and intelligent systems
 Full-Stack Developer building web apps and AI-powered systems. Working with RAG, vector databases, and production AI.
 
 ---
+<div allign="center">
+I'm actively seeking **internships or roles** in **Full Stack Development** and **Applied AI** — passionate about building intelligent, production-grade systems.  
+  
+If you’re hiring or collaborating, feel free to connect or drop me a message!
+</div>
 
 <p align="center">
   <a href="https://github.com/Vasu-Devs">
