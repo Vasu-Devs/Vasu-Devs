@@ -15,36 +15,32 @@ Building scalable web apps and intelligent systems
 
 </div>
 
-## ⚡ Stack
+---
 
-```javascript
-const skills = {
-  frontend: ['React', 'Next.js', 'JavaScript', 'Tailwind'],
-  backend: ['Python', 'Node.js', 'FastAPI', 'PostgreSQL'],
-  ai: ['OpenAI', 'Claude', 'Hugging Face', 'LangChain'],
-  tools: ['Docker', 'Git']
-};
-```
+### What I Work With
 
-## 🎯 Focus Areas
+**Frontend**  
+React • Next.js • JavaScript • Tailwind CSS
 
-**Full-Stack Development** → Production-ready web applications  
-**AI Integration** → RAG systems, LLM applications, MCP protocol  
-**Building** → Things that solve real problems, not just demos
+**Backend**  
+Python • Node.js • FastAPI • PostgreSQL
 
-## 🔗 Links
+**AI/ML**  
+OpenAI • Claude • Hugging Face • LangChain
 
-<div align="center">
+**Tools**  
+Docker • Git
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vasu-Devs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasudev-siddh/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:siddhvasudev1402@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/CodeCrab)
+### What I'm Doing
 
-</div>
+Building full-stack web applications and integrating AI into production systems. Currently exploring RAG architectures and MCP protocol. I focus on creating solutions that actually work and scale.
+
+### Get In Touch
+
+[GitHub](https://github.com/Vasu-Devs) • [LinkedIn](https://www.linkedin.com/in/vasudev-siddh/) • [Email](mailto:siddhvasudev1402@gmail.com) • [LeetCode](https://leetcode.com/CodeCrab)
 
 ---
 
 <div align="center">
-<sub>Open to collaborations • Let's build something interesting</sub>
+<i>Open to interesting projects and collaborations</i>
 </div></div>
