@@ -52,7 +52,6 @@ Building scalable web apps and intelligent systems
 Full-Stack Developer building web apps and AI-powered systems. Working with RAG, vector databases, and production AI.
 
 ---
----
 
 <div align="center">
 
