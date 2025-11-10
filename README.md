@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 ```
@@ -92,4 +91,3 @@ Building web applications, RAG pipelines, and production-grade AI systems integr
     <img src="https://img.shields.io/badge/-X_(Twitter)-F5F5F5?style=for-the-badge&logo=x&logoColor=000000#gh-light-mode-only" />
   </a>
 </p>
-```
