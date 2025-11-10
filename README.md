@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██╗   ██╗ █████╗ ███████╗██╗   ██╗██████╗ ███████╗██╗   ██╗
-██║   ██║██╔══██╗██╔════╝██║   ██║██╔══██╗██╔════╝██║   ██║
-██║   ██║███████║███████╗██║   ██║██║  ██║█████╗  ██║   ██║
-╚██╗ ██╔╝██╔══██║╚════██║██║   ██║██║  ██║██╔══╝  ╚██╗ ██╔╝
- ╚████╔╝ ██║  ██║███████║╚██████╔╝██████╔╝███████╗ ╚████╔╝ 
-  ╚═══╝  ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝  ╚═══╝  
+██╗   ██╗ █████╗ ███████╗██╗   ██╗      ██████╗ ███████╗██╗   ██╗███████╗
+██║   ██║██╔══██╗██╔════╝██║   ██║      ██╔══██╗██╔════╝██║   ██║██╔════╝
+██║   ██║███████║███████╗██║   ██║█████╗██║  ██║█████╗  ██║   ██║███████╗
+╚██╗ ██╔╝██╔══██║╚════██║██║   ██║╚════╝██║  ██║██╔══╝  ╚██╗ ██╔╝╚════██║
+ ╚████╔╝ ██║  ██║███████║╚██████╔╝      ██████╔╝███████╗ ╚████╔╝ ███████║
+  ╚═══╝  ╚═╝  ╚═╝╚══════╝ ╚═════╝       ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝
 ```
 
 **Full Stack Developer × AI Engineer**
@@ -17,30 +17,54 @@ Building scalable web apps and intelligent systems
 
 ---
 
-### What I Work With
+## 🔧 Tech Arsenal
 
-**Frontend**  
+#### 🎨 Frontend
 React • Next.js • JavaScript • Tailwind CSS
 
-**Backend**  
+#### ⚙️ Backend  
 Python • Node.js • FastAPI • PostgreSQL
 
-**AI/ML**  
+#### 🤖 AI/ML
 OpenAI • Claude • Hugging Face • LangChain
 
-**Tools**  
+#### 🛠️ DevOps
 Docker • Git
 
-### What I'm Doing
+---
 
-Building full-stack web applications and integrating AI into production systems. Currently exploring RAG architectures and MCP protocol. I focus on creating solutions that actually work and scale.
+## 💼 What I Do
 
-### Get In Touch
+**Full-Stack Web Development**  
+Building scalable, performant web applications from ground up
 
-[GitHub](https://github.com/Vasu-Devs) • [LinkedIn](https://www.linkedin.com/in/vasudev-siddh/) • [Email](mailto:siddhvasudev1402@gmail.com) • [LeetCode](https://leetcode.com/CodeCrab)
+**AI Integration**  
+Bringing intelligence to products through RAG systems and LLM applications
+
+**Current Exploration**  
+MCP Protocol • Production AI Architecture • Real-world problem solving
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Vasu-Devs">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vasudev-siddh/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:siddhvasudev1402@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/CodeCrab">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-<i>Open to interesting projects and collaborations</i>
+<i>💡 Open to collaborations on interesting projects • Let's build something cool together</i>
 </div></div>
