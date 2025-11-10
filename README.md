@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 ```
@@ -67,4 +67,3 @@ Full-Stack Developer building web apps and AI-powered systems. Working with RAG,
     <img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p></div>
-```
