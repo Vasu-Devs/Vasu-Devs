@@ -11,8 +11,6 @@
 
 **Full Stack Developer × AI Engineer**
 
-Building scalable web apps and intelligent systems
-
 </div>
 
 ---
