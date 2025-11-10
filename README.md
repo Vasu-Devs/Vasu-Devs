@@ -1,37 +1,50 @@
 <div align="center">
 
-# Vasudev
+```
+██╗   ██╗ █████╗ ███████╗██╗   ██╗██████╗ ███████╗██╗   ██╗
+██║   ██║██╔══██╗██╔════╝██║   ██║██╔══██╗██╔════╝██║   ██║
+██║   ██║███████║███████╗██║   ██║██║  ██║█████╗  ██║   ██║
+╚██╗ ██╔╝██╔══██║╚════██║██║   ██║██║  ██║██╔══╝  ╚██╗ ██╔╝
+ ╚████╔╝ ██║  ██║███████║╚██████╔╝██████╔╝███████╗ ╚████╔╝ 
+  ╚═══╝  ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝  ╚═══╝  
+```
 
-Full Stack Developer & AI Engineer
+**Full Stack Developer × AI Engineer**
 
----
+Building scalable web apps and intelligent systems
 
 </div>
 
-### Tech Stack
+## ⚡ Stack
 
-**Frontend:** React, Next.js, JavaScript, Tailwind CSS  
-**Backend:** Python, Node.js, FastAPI  
-**AI/ML:** OpenAI, Claude, Hugging Face, LangChain  
-**Database & Tools:** PostgreSQL, Docker, Git
+```javascript
+const skills = {
+  frontend: ['React', 'Next.js', 'JavaScript', 'Tailwind'],
+  backend: ['Python', 'Node.js', 'FastAPI', 'PostgreSQL'],
+  ai: ['OpenAI', 'Claude', 'Hugging Face', 'LangChain'],
+  tools: ['Docker', 'Git']
+};
+```
 
-### What I Do
+## 🎯 Focus Areas
 
-I build full-stack web applications and integrate AI into real products. Interested in RAG systems, MCP protocol, and creating things that solve actual problems. Always exploring new ways to make tech work better.
+**Full-Stack Development** → Production-ready web applications  
+**AI Integration** → RAG systems, LLM applications, MCP protocol  
+**Building** → Things that solve real problems, not just demos
 
-Open to collaborating on interesting projects or just talking shop.
-
-### Connect
-
-**GitHub:** [@Vasu-Devs](https://github.com/Vasu-Devs)  
-**LinkedIn:** [vasudev-siddh](https://www.linkedin.com/in/vasudev-siddh/)  
-**Email:** siddhvasudev1402@gmail.com  
-**LeetCode:** [CodeCrab](https://leetcode.com/CodeCrab)
+## 🔗 Links
 
 <div align="center">
 
----
-
-*Building things that work, one commit at a time.*
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Vasu-Devs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasudev-siddh/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:siddhvasudev1402@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/CodeCrab)
 
 </div>
+
+---
+
+<div align="center">
+<sub>Open to collaborations • Let's build something interesting</sub>
+</div></div>
