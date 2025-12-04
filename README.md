@@ -19,6 +19,7 @@ Building scalable web apps and intelligent systems
 </div>
 
 ---
+<div align="center">
 If you’re hiring or collaborating, feel free to connect or drop me a message!
 </div>
 
