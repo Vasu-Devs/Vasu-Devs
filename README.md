@@ -22,7 +22,9 @@ Building scalable web apps and intelligent systems
 <div align="center">
 If you’re hiring or collaborating, feel free to connect or drop me a message!
 </div>
+
 ---
+
 <p align="center">
   <a href="https://github.com/Vasu-Devs">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
